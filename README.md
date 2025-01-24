@@ -1,0 +1,3 @@
+# Expo Camera API: Inconsistent Behavior and Unexpected Crashes
+
+This repository demonstrates an uncommon bug encountered when using the Expo Camera API. The issue manifests as inconsistent behavior and unexpected crashes on certain devices, particularly those with specific configurations or hardware limitations.  The provided example showcases a basic Camera implementation that may exhibit the problematic behavior on some devices, highlighting the need for robust error handling and device-specific adaptations within Expo Camera applications. The solution offers strategies to mitigate these problems.
